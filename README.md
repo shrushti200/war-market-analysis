@@ -50,5 +50,4 @@ This proves that even with only three historical events, simple ML can extract m
 
 1. Clone the repository.
 2. Install dependencies:  
-   ```bash
-  python -m pip install -r requirements.txt
+   ```bash python -m pip install -r requirements.txt
