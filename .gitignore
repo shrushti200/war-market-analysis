@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+output.txt
+gulf_war_gold.csv
+*.tmp
+.DS_Store
+*.log
