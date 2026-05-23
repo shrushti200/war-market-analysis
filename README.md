@@ -39,14 +39,17 @@ This proves that even with only three historical events, simple ML can extract m
 
 ![Three wars S&P500 alignment](three_wars_alignment.png)  
 *S&P500 response to Gulf (1990), Ukraine (2022), and Israel (2023) – aligned by war start day.*
+
 **S&P500 only – stock markets reacted similarly in Ukraine & Israel (+0.48 correlation), but the Gulf War moved opposite (–0.37).**
 
 ![Gold vs S&P500 vs Bitcoin](gold_vs_sp500_wars.png)  
 *Gold as a safe haven vs stocks and Bitcoin during Gulf and Ukraine wars.*
+
 **Gulf War (1990): Gold rose +1.5% (Bitcoin did not exist).Ukraine War (2022): Gold rose +5.2% , while Bitcoin fell –15.2% .Gold was positive in both wars. Bitcoin was negative in Ukraine.**
 
 ![S&P500 vs Bitcoin correlation](sp_vs_btc_analysis.png)  
 *S&P500 vs Bitcoin: correlation was 0.19 in Ukraine but 0.67 in Israel – inconsistent behaviour.*
+
 **Bitcoin is inconsistent: in Ukraine it fell with stocks (–15%); in Israel it soared +46% while stocks were flat. Not a reliable safe haven.**
 
 ## How to Run
