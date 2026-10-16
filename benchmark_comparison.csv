@@ -1,0 +1,3 @@
+model,mae_pp
+Median baseline (leave-one-event-out),13.327268687988068
+Zero-drawdown benchmark,13.477502573265136
