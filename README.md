@@ -52,7 +52,27 @@ The script downloads market data and saves the generated results in the configur
 
 \- `pre\_event\_indicators.png` — pre-event indicator visualizations.
 
+## Key Findings
 
+- The median baseline achieved a mean absolute error (MAE) of
+  approximately 13.33 percentage points.
+- The zero-drawdown benchmark achieved an MAE of approximately
+  13.48 percentage points.
+- The small difference between these errors does not establish
+  reliable predictive performance.
+- Results are descriptive and should not be interpreted as
+  evidence that geopolitical events caused market movements.
+
+## Visual Results
+
+### Event Study
+![Event study chart](event_study_chart.png)
+
+### Returns by Horizon
+![Asset returns by horizon](asset_returns_by_horizon.png)
+
+### Drawdown Comparison
+![Drawdown comparison](drawdown_comparison.png)
 
 \## Methodological Limitations
 
